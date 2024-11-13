@@ -10,5 +10,5 @@ This repository demonstrates a comprehensive workflow for fine-tuning Meta’s L
 ## How to Use
 1. **Clone this Repository**:
    ```bash
-   git clone <repository_url>
-   cd <repository_directory>
+   git clone <https://github.com/HarshKalburgi/Fine_tuned_Llama_2>
+   cd <Fine_tuned_Llama_2>
